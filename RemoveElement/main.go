@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 var (
-	nums = make([]int, 4)
+	nums = make([]int, 0, 4)
 )
 
 func main() {
